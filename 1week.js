@@ -34,7 +34,7 @@ console.log(4/0);
     // let zhiv = confirm("Ti tam zhiv?");
     // console.log("On zhiv: " + zhiv);
 
-    // let palci = prompt("Skolyko palcev vidiw?", "1");
+    // let palci = prompt("Skolyko palcev vidiw?", "1"); //если нажать cancel - то даст Null
     // console.log("On vidit " + palci + " palca/ev");
 
     // console.log(typeof(palci)+" tut vsegda string!");

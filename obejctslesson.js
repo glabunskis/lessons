@@ -75,3 +75,9 @@ let john = {
 };
 
 john.__proto__ = soldier;//назначает родителя
+
+if (12301923217321){
+    console.log("yeas");
+}
+
+console.log(typeof(!!"5")); // !! - delaet boolean
